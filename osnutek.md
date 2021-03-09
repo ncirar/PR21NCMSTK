@@ -1,22 +1,13 @@
 # Kazniva dejanja v Sloveniji od leta 2009 dalje - Projektna naloga pri predmetu Podatkovno rudarjenje
 
 ## Opis problemska in podatkov, ki jih bomo analizirali v projektu
-<<<<<<< HEAD
 Za našo projektno nalogo smo si izbrali problematiko kaznivih dejanj v Sloveniji, pri čemer bomo uporabili podatke o 
 zabeleženih zločinih od leta 2009 dalje. Menimo, da je koristno ugotoviti razne povezave in podobnosti med storjenimi kaznivimi dejanji, kar bi lahko veliko doprineslo k področju kriminalistike. Dandanes, ko je kriminal precej razširjen, je namreč dobro odkriti vzorce, ki se ponavljajo med podobnimi zločini in tako morebiti preprečiti v prihodnje, da bi se podobna kazniva dejanja dogajala še naprej.
-=======
-
-Za našo seminarsko nalogo smo si izbrali problematiko kaznivih dejanj v Sloveniji, pri čemer bomo uporabili podatke o
-zabeleženih zločinih od leta 2009 dalje. Menimo, da je koristno ugotoviti razne povezave in podobnosti med storjenimi kaznivimi dejanji, kar bi lahko veliko doprineslo k področju kriminalistike.
->>>>>>> 4f6515e1f1aefd4f29afd0d472a4faeb4cd7f267
 
 Naši glavni cilji so zato predvsem iskati zanimive korelacije med zločini, ki so se dogajali, najti podobnosti, ki zares izstopajo ter ugotoviti ključne dejavnike oz. atribute, ki so najpogostejši. Na primer, odkriti, če je kakšna povezava med starostjo storitelja in vrsto zločina, če se določene vrste kaznivih dejanj dogajajajo ob določenih urah, ali kakšna Policijska uprava posebej izstopa z različnimi zločini.
 
-<<<<<<< HEAD
 Podatke smo našli na portalu [OPSI](https://podatki.gov.si/dataset/mnzpkazniva-dejanja-od-leta-2009-dalje), kjer so za vsako leto od 2009 dalje posebej objavljeni podatki o storjenih kaznivih dejanjih, za katera je policija vložila kazensko ovadbo ali poročilo. Za vsako leto je od 50 000 do 100 000, kar nam bo pripomoglo k res temeljitemu raziskovanju in rudarjenju.
-=======
-Podatke smo našli na portalu [OPSI](https://podatki.gov.si/dataset/mnzpkazniva-dejanja-od-leta-2009-dalje), kjer so za vsako leto od 2009 dalje posebej objavljeni podatki o storjenih kaznivih dejanjih, za katera je policija vložila kazensko ovadbo ali poročilo.
->>>>>>> 4f6515e1f1aefd4f29afd0d472a4faeb4cd7f267
+
 Struktura podatkovne baze je sledeča:
 
 - *ZaporednaStevilkaKD*: zločini so oštevilčeni z zaporedno številko, pri čemer se štetje vsako leto znova začne z 1.
